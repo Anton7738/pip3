@@ -21,4 +21,4 @@ Contributor Anton Priborkin created files:
  
   simplecaesar.py
   
- *Note- other contributors: Instr. J. Silverman or other instructional staff at the University of Minnesota or otherwise
+ *Note- other contributors: Instr. J. Silverman or other staff at the University of Minnesota or otherwise
