@@ -1,0 +1,33 @@
+************* Module simplecaesar
+simplecaesar.py:35:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+simplecaesar.py:36:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+simplecaesar.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+simplecaesar.py:6:0: W0401: Wildcard import string (wildcard-import)
+simplecaesar.py:13:0: C0116: Missing function or method docstring (missing-function-docstring)
+simplecaesar.py:15:4: W0621: Redefining name 'converted' from outer scope (line 40) (redefined-outer-name)
+simplecaesar.py:20:12: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+simplecaesar.py:24:0: C0116: Missing function or method docstring (missing-function-docstring)
+simplecaesar.py:25:4: W0621: Redefining name 'converted' from outer scope (line 40) (redefined-outer-name)
+simplecaesar.py:30:12: C0103: Variable name "X" doesn't conform to snake_case naming style (invalid-name)
+simplecaesar.py:34:0: C0116: Missing function or method docstring (missing-function-docstring)
+simplecaesar.py:35:1: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+simplecaesar.py:36:1: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+simplecaesar.py:39:0: C0103: Constant name "shift" doesn't conform to UPPER_CASE naming style (invalid-name)
+simplecaesar.py:40:0: C0103: Constant name "converted" doesn't conform to UPPER_CASE naming style (invalid-name)
+simplecaesar.py:41:0: C0103: Constant name "flag1" doesn't conform to UPPER_CASE naming style (invalid-name)
+simplecaesar.py:43:0: C0103: Constant name "flag3" doesn't conform to UPPER_CASE naming style (invalid-name)
+simplecaesar.py:44:0: C0103: Constant name "letters" doesn't conform to UPPER_CASE naming style (invalid-name)
+simplecaesar.py:49:8: C0103: Constant name "converted" doesn't conform to UPPER_CASE naming style (invalid-name)
+simplecaesar.py:51:12: C0103: Constant name "converted" doesn't conform to UPPER_CASE naming style (invalid-name)
+simplecaesar.py:53:12: C0103: Constant name "converted" doesn't conform to UPPER_CASE naming style (invalid-name)
+simplecaesar.py:59:12: W0101: Unreachable code (unreachable)
+simplecaesar.py:64:8: W0101: Unreachable code (unreachable)
+simplecaesar.py:66:7: C0121: Comparison 'FLAG2 == True' should be 'FLAG2 is True' if checking for the singleton value True, or 'FLAG2' if testing for truthiness (singleton-comparison)
+simplecaesar.py:7:0: W0611: Unused randint imported from random (unused-import)
+simplecaesar.py:8:0: W0611: Unused import os (unused-import)
+simplecaesar.py:9:0: W0611: Unused chdir imported from os (unused-import)
+simplecaesar.py:6:0: W0614: Unused import(s) whitespace, ascii_lowercase, ascii_uppercase, ascii_letters, digits, hexdigits, octdigits, punctuation, printable, capwords, Template and Formatter from wildcard import of string (unused-wildcard-import)
+
+-----------------------------------
+Your code has been rated at 4.62/10
+

@@ -1,0 +1,44 @@
+Messages
+========
+
+simplecaesar.py
+  Line: None
+    pycodestyle: E101 / indentation contains mixed spaces and tabs (col 1)
+  Line: 1
+    pycodestyle: E114 / indentation is not a multiple of 4 (comment) (col 2)
+    pycodestyle: E116 / unexpected indentation (comment) (col 2)
+  Line: 6
+    pylint: unused-wildcard-import / Unused imports from wildcard import: (s)
+    pyflakes: F401 / 'string.*' imported but unused (col 1)
+  Line: 7
+    pylint: unused-import / Unused randint imported from random
+  Line: 8
+    pylint: unused-import / Unused import os
+  Line: 9
+    pylint: unused-import / Unused chdir imported from os
+  Line: 35
+    pylint: bad-indentation / Bad indentation. Found 1 spaces, expected 4
+  Line: 36
+    pylint: bad-indentation / Bad indentation. Found 1 spaces, expected 4
+  Line: 59
+    pylint: unreachable / Unreachable code (col 12)
+  Line: 64
+    pylint: unreachable / Unreachable code (col 8)
+  Line: 66
+    pycodestyle: E712 / comparison to True should be 'if cond is True:' or 'if cond:' (col 14)
+    pylint: singleton-comparison / Comparison 'FLAG2 == True' should be 'FLAG2 is True' if checking for the singleton value True, or 'FLAG2' if testing for truthiness (col 7)
+
+
+
+Check Information
+=================
+         Started: 2022-11-19 21:58:32.925922
+        Finished: 2022-11-19 21:58:33.221817
+      Time Taken: 0.30 seconds
+       Formatter: grouped
+        Profiles: default, no_doc_warnings, no_test_warnings, strictness_medium, strictness_high, strictness_veryhigh, no_member_warnings
+      Strictness: None
+  Libraries Used: 
+       Tools Run: dodgy, mccabe, profile-validator, pycodestyle, pyflakes, pylint
+  Messages Found: 14
+

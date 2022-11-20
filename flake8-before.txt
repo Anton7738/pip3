@@ -1,0 +1,17 @@
+simplecaesar.py:1:2: E114 indentation is not a multiple of 4 (comment)
+simplecaesar.py:1:2: E116 unexpected indentation (comment)
+simplecaesar.py:6:1: F403 'from string import *' used; unable to detect undefined names
+simplecaesar.py:6:1: F401 'string.*' imported but unused
+simplecaesar.py:7:1: F401 'random.randint' imported but unused
+simplecaesar.py:8:1: F401 'os' imported but unused
+simplecaesar.py:9:1: F401 'os.chdir' imported but unused
+simplecaesar.py:13:1: E302 expected 2 blank lines, found 1
+simplecaesar.py:24:1: E302 expected 2 blank lines, found 1
+simplecaesar.py:30:14: N806 variable 'X' in function should be lowercase
+simplecaesar.py:34:1: E302 expected 2 blank lines, found 1
+simplecaesar.py:35:1: W191 indentation contains tabs
+simplecaesar.py:35:1: E101 indentation contains mixed spaces and tabs
+simplecaesar.py:35:2: E117 over-indented
+simplecaesar.py:36:1: W191 indentation contains tabs
+simplecaesar.py:36:1: E101 indentation contains mixed spaces and tabs
+simplecaesar.py:66:14: E712 comparison to True should be 'if cond is True:' or 'if cond:'
